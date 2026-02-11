@@ -1,0 +1,14 @@
+// overview description file for de_anubis_cs2.bsp
+
+global 
+{
+	ZOOM	1.17
+	ORIGIN	264 	-577	 -97
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_anubis_cs2.bmp"
+	HEIGHT	-97
+}
